@@ -1,0 +1,4 @@
+<%@taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+<hr>
+
+<p id="footer"><fmt:message key="copyright" bundle="${text}" />	

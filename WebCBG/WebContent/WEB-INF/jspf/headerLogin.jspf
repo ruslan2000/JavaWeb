@@ -1,0 +1,9 @@
+<div align="right">
+	<a href="controller?locale=ru&command=language">
+		<img src="${pagePath.ru}"> 
+	</a> 
+	<a href="controller?locale=en&command=language">
+		<img src="${pagePath.uk}"> 
+	</a>
+</div>
+<hr>
