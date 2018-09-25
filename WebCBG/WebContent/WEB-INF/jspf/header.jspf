@@ -1,0 +1,10 @@
+<table>
+	<tr>
+		<td><a href="javascript:history.go(-1);"><img src="images/back.gif"></a>
+		</td>
+		<td><a href="servlet?command=goHome"><img src="images/home.gif"></a>
+		</td>
+		<td width="100%"></td>
+	</tr>
+</table>
+<hr>
