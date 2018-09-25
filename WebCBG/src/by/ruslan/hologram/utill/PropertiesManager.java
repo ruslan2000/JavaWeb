@@ -10,7 +10,7 @@ public class PropertiesManager {
 	
 	public static String getProperty(String key) {
 	
-	String path = "E:\\IT\\Git\\WebRepository\\WebCBG\\src\\properties\\text.properties"; //System.getProperty("user.dir").concat("/src/properties/text.properties");
+	String path = "E:\\IT\\Git\\JavaWeb\\WebCBG\\src\\properties\\text.properties"; //System.getProperty("user.dir").concat("/src/properties/text.properties");
 		
 	Properties p = new Properties();
 	
